@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+   <body>
+       <title>TABLES</title>
+       <tables border="1"width="800px"
+          <tr>
+             <td>S/NO</td>
+             <td>first Name</td>
+             <td>Last Name</td>
+             <td>CAT 1</td>
+             <td>CAT 2</td>
+         </tr>
+          <tr> 
+            <td>1</td>
+            <td>Juzi</td>
+            <td>Kip</td>
+            <td>1o</td>
+            <td>9</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Jana</td>
+            <td>Jenga</td>
+            <td>13</td>
+            <td>12</td>
+          </tr> 
+          <tr>
+            <td>3</td>
+            <td>Mun</td>
+            <td>Jude</td>
+            <td>14</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Mimi</td>
+            <td>Julii</td>
+            <td>17</td>
+            <td>8</td>
+        
+          </tr>
+        </tables>
+        </tr>
+        <table border="1" width="800px">
+            <tr>
+                <td rowspan="2">S/NO</td>
+                <td colspan="2">S/NO</td>
+                <td colspan="2">S/NO</td>
+                <td rowspan="2">S/NO</td>
+
+            </tr>
+            <tr>
+                <td>First Name</td>
+                <td>>Last Name</td>
+                <td>CAT 1</td>
+                <td>CAT 2</td>
+
+            </tr>
+        </table>
+    </body>
+</html>
